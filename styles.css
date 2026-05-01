@@ -1,0 +1,35 @@
+html{
+    background-color: #EDE9E6;
+}
+header{
+    background-color: #5C766D;
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+a{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+#MDN{
+    color: black;
+}
+.correct{
+    color: green;
+}
+.incorrect{
+    color: red;
+}  
+.left, .right{
+    width: 45%;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 340px;
+}
+#h21{
+    margin-top: 90px;
+}
